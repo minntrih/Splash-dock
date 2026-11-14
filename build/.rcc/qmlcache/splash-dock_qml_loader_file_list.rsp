@@ -1,0 +1,12 @@
+--resource
+/home/anand/Projects/Splash-dock/build/.qt/rcc/qmake_SplashDock.qrc
+--resource
+/home/anand/Projects/Splash-dock/build/.qt/rcc/splash-dock_raw_qml_0.qrc
+--resource
+/home/anand/Projects/Splash-dock/build/.qt/rcc/splash-dock_raw_res_0.qrc
+--resource
+/home/anand/Projects/Splash-dock/build/.qt/rcc/dock_shaders.qrc
+/SplashDock/src/qml/main.qml
+/SplashDock/src/qml/DockBackground.qml
+/SplashDock/src/qml/DockIcon.qml
+/SplashDock/src/qml/NoiseTexture.qml

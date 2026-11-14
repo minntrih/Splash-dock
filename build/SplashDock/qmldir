@@ -1,0 +1,8 @@
+module SplashDock
+typeinfo splash-dock.qmltypes
+prefer :/SplashDock/
+DockBackground 1.0 src/qml/DockBackground.qml
+DockIcon 1.0 src/qml/DockIcon.qml
+NoiseTexture 1.0 src/qml/NoiseTexture.qml
+depends QtQuick
+

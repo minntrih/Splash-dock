@@ -1,0 +1,83 @@
+{
+    "classes": [
+        {
+            "className": "WaylandLayerSurface",
+            "lineNumber": 20,
+            "object": true,
+            "qualifiedClassName": "WaylandLayerSurface",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "serial",
+                            "type": "uint32_t"
+                        },
+                        {
+                            "name": "width",
+                            "type": "uint32_t"
+                        },
+                        {
+                            "name": "height",
+                            "type": "uint32_t"
+                        }
+                    ],
+                    "index": 0,
+                    "lineNumber": 38,
+                    "name": "configured",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "lineNumber": 39,
+                    "name": "closed",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                },
+                {
+                    "access": "public",
+                    "name": "QtWayland::zwlr_layer_surface_v1"
+                }
+            ]
+        },
+        {
+            "className": "WaylandLayerShell",
+            "enums": [
+                {
+                    "isClass": true,
+                    "isFlag": false,
+                    "lineNumber": 59,
+                    "name": "Layer",
+                    "type": "uint32_t",
+                    "values": [
+                        "Background",
+                        "Bottom",
+                        "Top",
+                        "Overlay"
+                    ]
+                }
+            ],
+            "lineNumber": 53,
+            "object": true,
+            "qualifiedClassName": "WaylandLayerShell",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QWaylandClientExtensionTemplate<WaylandLayerShell>"
+                },
+                {
+                    "access": "public",
+                    "name": "QtWayland::zwlr_layer_shell_v1"
+                }
+            ]
+        }
+    ],
+    "inputFile": "waylandlayershell.h",
+    "outputRevision": 69
+}

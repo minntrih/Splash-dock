@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/SplashDock">/home/anand/Projects/Splash-dock/build/SplashDock</file>
+
+  </qresource>
+</RCC>

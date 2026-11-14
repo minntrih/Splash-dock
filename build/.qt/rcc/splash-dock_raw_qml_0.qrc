@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/SplashDock/">
+    <file alias="src/qml/main.qml">/home/anand/Projects/Splash-dock/src/qml/main.qml</file>
+    <file alias="src/qml/DockBackground.qml">/home/anand/Projects/Splash-dock/src/qml/DockBackground.qml</file>
+    <file alias="src/qml/DockIcon.qml">/home/anand/Projects/Splash-dock/src/qml/DockIcon.qml</file>
+    <file alias="src/qml/NoiseTexture.qml">/home/anand/Projects/Splash-dock/src/qml/NoiseTexture.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,375 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 1000,
+                            "functionName": "targetScale",
+                            "line": 32,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 0,
+                            "functionName": "onTargetScaleChanged",
+                            "line": 55,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 13,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 74,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 13,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 75,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 0,
+                            "functionName": "onFinished",
+                            "line": 68,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "target",
+                            "line": 62,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "to",
+                            "line": 63,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 40,
+                            "durationMicroseconds": 0,
+                            "functionName": "type",
+                            "line": 64,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "target",
+                            "line": 65,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "to",
+                            "line": 66,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 40,
+                            "durationMicroseconds": 0,
+                            "functionName": "type",
+                            "line": 67,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 81,
+                            "message": "Cannot access value for name baseSize"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 82,
+                            "message": "Cannot access value for name baseSize"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 0,
+                            "functionName": "radius",
+                            "line": 83,
+                            "message": "Cannot access value for name baseSize"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 16,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 85,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 0,
+                            "functionName": "xScale",
+                            "line": 91,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 0,
+                            "functionName": "yScale",
+                            "line": 92,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 23,
+                            "durationMicroseconds": 0,
+                            "functionName": "x",
+                            "line": 89,
+                            "message": "Cannot access value for name baseSize"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 23,
+                            "durationMicroseconds": 0,
+                            "functionName": "y",
+                            "line": 90,
+                            "message": "Cannot access value for name baseSize"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 19,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 98,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "horizontalAlignment",
+                            "line": 100,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "verticalAlignment",
+                            "line": 101,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 97,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 99,
+                            "message": "Cannot access value for name baseSize"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 111,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 0,
+                            "functionName": "radius",
+                            "line": 112,
+                            "message": "Cannot load property radius from (component in /home/anand/Projects/Splash-dock/src/qml/DockIcon.qml)::parent with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "top",
+                            "line": 107,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "left",
+                            "line": 108,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "right",
+                            "line": 109,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 54,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 115,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 54,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 116,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 0,
+                            "functionName": "shadowColor",
+                            "line": 124,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 0,
+                            "functionName": "shadowVerticalOffset",
+                            "line": 126,
+                            "message": "Cannot access value for name root"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 0,
+                            "functionName": "onTapped",
+                            "line": 132,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 17,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 151,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 17,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 152,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 18,
+                            "durationMicroseconds": 0,
+                            "functionName": "opacity",
+                            "line": 154,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "top",
+                            "line": 147,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "horizontalCenter",
+                            "line": 148,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 59,
+                            "durationMicroseconds": 0,
+                            "functionName": "type",
+                            "line": 156,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 162,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 160,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 19,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 168,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 167,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 26,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 171,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "/home/anand/Projects/Splash-dock/src/qml/DockIcon.qml"
+                }
+            ],
+            "moduleId": "SplashDock(splash-dock)"
+        }
+    ]
+}

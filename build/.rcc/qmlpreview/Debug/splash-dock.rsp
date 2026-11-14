@@ -1,0 +1,10 @@
+--interactive
+--resource
+/home/anand/Projects/Splash-dock/build/.qt/rcc/qmake_SplashDock.qrc
+--resource
+/home/anand/Projects/Splash-dock/build/.qt/rcc/splash-dock_raw_qml_0.qrc
+--resource
+/home/anand/Projects/Splash-dock/build/.qt/rcc/splash-dock_raw_res_0.qrc
+--resource
+/home/anand/Projects/Splash-dock/build/.qt/rcc/dock_shaders.qrc
+/home/anand/Projects/Splash-dock/build/splash-dock

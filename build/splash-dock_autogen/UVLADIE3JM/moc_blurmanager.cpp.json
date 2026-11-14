@@ -1,0 +1,68 @@
+{
+    "classes": [
+        {
+            "className": "BlurManager",
+            "lineNumber": 13,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "window",
+                            "type": "QWindow*"
+                        },
+                        {
+                            "name": "enable",
+                            "type": "bool"
+                        }
+                    ],
+                    "index": 0,
+                    "lineNumber": 21,
+                    "name": "applyBlur",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "window",
+                            "type": "QWindow*"
+                        }
+                    ],
+                    "index": 1,
+                    "isCloned": true,
+                    "lineNumber": 21,
+                    "name": "applyBlur",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "window",
+                            "type": "QWindow*"
+                        },
+                        {
+                            "name": "region",
+                            "type": "QRegion"
+                        }
+                    ],
+                    "index": 2,
+                    "lineNumber": 24,
+                    "name": "applyBlurRegion",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "BlurManager",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "blurmanager.h",
+    "outputRevision": 69
+}

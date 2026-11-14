@@ -1,0 +1,77 @@
+{
+    "classes": [
+        {
+            "className": "DockWindow",
+            "lineNumber": 18,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "lineNumber": 21,
+                    "name": "dockHeight",
+                    "notify": "dockHeightChanged",
+                    "override": false,
+                    "read": "dockHeight",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "virtual": false,
+                    "write": "setDockHeight"
+                }
+            ],
+            "qualifiedClassName": "DockWindow",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 31,
+                    "name": "dockHeightChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "private",
+                    "arguments": [
+                        {
+                            "name": "serial",
+                            "type": "uint32_t"
+                        },
+                        {
+                            "name": "width",
+                            "type": "uint32_t"
+                        },
+                        {
+                            "name": "height",
+                            "type": "uint32_t"
+                        }
+                    ],
+                    "index": 1,
+                    "lineNumber": 37,
+                    "name": "onLayerSurfaceConfigured",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "index": 2,
+                    "lineNumber": 38,
+                    "name": "onLayerSurfaceClosed",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QQuickWindow"
+                }
+            ]
+        }
+    ],
+    "inputFile": "dockwindow.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/SplashDock">
+    <file alias="qmldir">/home/anand/Projects/Splash-dock/build/SplashDock/qmldir</file>
+  </qresource>
+</RCC>
+

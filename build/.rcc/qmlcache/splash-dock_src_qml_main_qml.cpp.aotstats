@@ -1,0 +1,151 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 13,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 16,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 13,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 17,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 17,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 43,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 17,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 44,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 38,
+                            "durationMicroseconds": 0,
+                            "functionName": "bottom",
+                            "line": 47,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 38,
+                            "durationMicroseconds": 0,
+                            "functionName": "horizontalCenter",
+                            "line": 48,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 22,
+                            "durationMicroseconds": 0,
+                            "functionName": "spacing",
+                            "line": 56,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 55,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "onPointChanged",
+                            "line": 63,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "onHoveredChanged",
+                            "line": 67,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "model",
+                            "line": 74,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "iconLabel",
+                            "line": 81,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "iconBgColor",
+                            "line": 82,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "label",
+                            "line": 83,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "baseSize",
+                            "line": 84,
+                            "message": "Cannot access value for name dock"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "rowMouseX",
+                            "line": 85,
+                            "message": "Cannot access value for name iconRow"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerXInRow",
+                            "line": 87,
+                            "message": "Cannot access value for name dock"
+                        }
+                    ],
+                    "filePath": "/home/anand/Projects/Splash-dock/src/qml/main.qml"
+                }
+            ],
+            "moduleId": "SplashDock(splash-dock)"
+        }
+    ]
+}

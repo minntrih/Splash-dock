@@ -1,0 +1,230 @@
+[
+    {
+        "classes": [
+            {
+                "className": "BlurManager",
+                "lineNumber": 13,
+                "methods": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "window",
+                                "type": "QWindow*"
+                            },
+                            {
+                                "name": "enable",
+                                "type": "bool"
+                            }
+                        ],
+                        "index": 0,
+                        "lineNumber": 21,
+                        "name": "applyBlur",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "window",
+                                "type": "QWindow*"
+                            }
+                        ],
+                        "index": 1,
+                        "isCloned": true,
+                        "lineNumber": 21,
+                        "name": "applyBlur",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "window",
+                                "type": "QWindow*"
+                            },
+                            {
+                                "name": "region",
+                                "type": "QRegion"
+                            }
+                        ],
+                        "index": 2,
+                        "lineNumber": 24,
+                        "name": "applyBlurRegion",
+                        "returnType": "void"
+                    }
+                ],
+                "object": true,
+                "qualifiedClassName": "BlurManager",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "blurmanager.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "DockWindow",
+                "lineNumber": 18,
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "lineNumber": 21,
+                        "name": "dockHeight",
+                        "notify": "dockHeightChanged",
+                        "override": false,
+                        "read": "dockHeight",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false,
+                        "virtual": false,
+                        "write": "setDockHeight"
+                    }
+                ],
+                "qualifiedClassName": "DockWindow",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "lineNumber": 31,
+                        "name": "dockHeightChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "private",
+                        "arguments": [
+                            {
+                                "name": "serial",
+                                "type": "uint32_t"
+                            },
+                            {
+                                "name": "width",
+                                "type": "uint32_t"
+                            },
+                            {
+                                "name": "height",
+                                "type": "uint32_t"
+                            }
+                        ],
+                        "index": 1,
+                        "lineNumber": 37,
+                        "name": "onLayerSurfaceConfigured",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "index": 2,
+                        "lineNumber": 38,
+                        "name": "onLayerSurfaceClosed",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QQuickWindow"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "dockwindow.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "WaylandLayerSurface",
+                "lineNumber": 20,
+                "object": true,
+                "qualifiedClassName": "WaylandLayerSurface",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "serial",
+                                "type": "uint32_t"
+                            },
+                            {
+                                "name": "width",
+                                "type": "uint32_t"
+                            },
+                            {
+                                "name": "height",
+                                "type": "uint32_t"
+                            }
+                        ],
+                        "index": 0,
+                        "lineNumber": 38,
+                        "name": "configured",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 1,
+                        "lineNumber": 39,
+                        "name": "closed",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    },
+                    {
+                        "access": "public",
+                        "name": "QtWayland::zwlr_layer_surface_v1"
+                    }
+                ]
+            },
+            {
+                "className": "WaylandLayerShell",
+                "enums": [
+                    {
+                        "isClass": true,
+                        "isFlag": false,
+                        "lineNumber": 59,
+                        "name": "Layer",
+                        "type": "uint32_t",
+                        "values": [
+                            "Background",
+                            "Bottom",
+                            "Top",
+                            "Overlay"
+                        ]
+                    }
+                ],
+                "lineNumber": 53,
+                "object": true,
+                "qualifiedClassName": "WaylandLayerShell",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QWaylandClientExtensionTemplate<WaylandLayerShell>"
+                    },
+                    {
+                        "access": "public",
+                        "name": "QtWayland::zwlr_layer_shell_v1"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "waylandlayershell.h",
+        "outputRevision": 69
+    }
+]

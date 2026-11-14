@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/shaders">
+    <file alias="shaders/noise.frag.qsb">/home/anand/Projects/Splash-dock/build/.qsb/shaders/noise.frag.qsb</file>
+    <file alias="shaders/saturation.frag.qsb">/home/anand/Projects/Splash-dock/build/.qsb/shaders/saturation.frag.qsb</file>
+  </qresource>
+</RCC>
+

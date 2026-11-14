@@ -1,0 +1,16 @@
+-rootPath
+/home/anand/Projects/Splash-dock
+-cmake-output
+-output-file
+/home/anand/Projects/Splash-dock/build/.qt/qml_imports/splash-dock_conf.cmake
+-importPath
+/home/anand/Projects/Splash-dock/build
+-importPath
+/home/anand/Projects/Splash-dock/build/SplashDock
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/anand/Projects/Splash-dock/build/.qt/rcc/qmake_SplashDock.qrc
+/home/anand/Projects/Splash-dock/build/.qt/rcc/splash-dock_raw_qml_0.qrc
+/home/anand/Projects/Splash-dock/build/.qt/rcc/splash-dock_raw_res_0.qrc
+/home/anand/Projects/Splash-dock/build/.qt/rcc/dock_shaders.qrc

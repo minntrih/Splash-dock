@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/SplashDock/">
+    <file alias="assets/icons/placeholder.svg">/home/anand/Projects/Splash-dock/assets/icons/placeholder.svg</file>
+  </qresource>
+</RCC>
+
